@@ -23,7 +23,7 @@ This is a very simple Boilerplate application, this has following features.
   
 ## Getting Started 🚀
 
-You can go through this [Flutter Starter Pack](https://sadmansamee.github.io/flutter_starter_pack).
+You can go through this [Flutter Free Boiler Platform](https://github.com/awesomesmallwolf/Flutter-Free-Boiler-platform).
 
 This project contains 3 flavors:
 
@@ -145,10 +145,8 @@ Widget build(BuildContext context) {
 ---
 
 ### Find me at
-- [LinkedIn](https://www.linkedin.com/in/sadmansamee/)
-- [Github](https://github.com/Sadmansamee)
-- [Blog](https://sadmansamee.github.io/)
-- [Twitter](https://twitter.com/SameeSadman)
+- [Github](https://github.com/awesomesmallwolf)
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
